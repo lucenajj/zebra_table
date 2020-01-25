@@ -1,5 +1,8 @@
 tr:nth-child(2n+1){
-    background-color: aqua;
-    border:  solid #ff00;
-    
+    background-color: aqua;  
 }
+table{
+    align-items: center;  
+}
+
+
